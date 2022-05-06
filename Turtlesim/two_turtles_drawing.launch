@@ -1,0 +1,4 @@
+<launch>
+<node pkg="turtlesim_face" type="turtle_controller.py" name="turtle_controller"> </node>
+<node pkg="turtlesim_face" type="turtle2_controller.py" name="turtle2_controller"> </node>
+</launch>
