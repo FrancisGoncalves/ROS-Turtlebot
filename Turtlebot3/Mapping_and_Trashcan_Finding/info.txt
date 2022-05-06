@@ -1,0 +1,1 @@
+Mapping the turtlebot3 house using the lidar, the trashcans with convolutional operations, and visit their locations
